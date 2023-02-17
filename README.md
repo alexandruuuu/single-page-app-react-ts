@@ -19,7 +19,7 @@
 
 ## First start:
 ```
-yarn && yarn prepare
+yarn
 ```
 
 ## Local development:
