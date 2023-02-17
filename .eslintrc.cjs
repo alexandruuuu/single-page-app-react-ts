@@ -8,7 +8,7 @@ module.exports = {
 		'plugin:react/recommended',
 		'plugin:@typescript-eslint/recommended',
 		'plugin:@typescript-eslint/recommended-requiring-type-checking',
-		'plugin:react/jsx-runtime'
+		// 'plugin:react/jsx-runtime'
 	],
 	overrides: [],
 	parser: '@typescript-eslint/parser',
